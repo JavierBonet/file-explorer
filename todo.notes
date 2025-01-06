@@ -1,0 +1,5 @@
+[ ] Create a class that will be in charge of returning the files and folders of an specific path
+[ ] Create a method that iterates over the files and folders and create the corresponding widgets. This should be clickable
+    [ ]  When double-clicking a file, it should print a log for now
+    [ ]  When double-clicking a folder, it get the files/folder from it and render them as widgets
+[ ] Have a history of the visited paths so it is possible to go back and forward
